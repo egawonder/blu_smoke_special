@@ -23,4 +23,4 @@ Schematic:
 ![The Schematic](https://raw2.github.com/egawonder/blu_smoke_special/master/images/Schematic.png "The Schematic")
 
 Layout:
-![The Layout](https://raw2.github.com/egawonder/blu_smoke_special/tree/master/images/Layout.png "The Layout")
+![The Layout](https://raw2.github.com/egawonder/blu_smoke_special/master/images/Layout.png "The Layout")
