@@ -16,3 +16,11 @@ Finally, I'm not sure how hard this would be to actually build.  I've never trie
 ## Safety Notice:
 
 Don't plug this in.
+
+## Overview
+
+Schematic:
+![The Schematic](https://github.com/egawonder/blu_smoke_special/tree/master/images/Schematic.png "The Schematic")
+
+Layout:
+![The Layout](https://github.com/egawonder/blu_smoke_special/tree/master/images/Layout.png "The Layout")
